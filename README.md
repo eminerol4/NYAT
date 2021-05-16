@@ -1,2 +1,2 @@
 # NYAT
- Nesne yönelim anaaliz tasarım dersi yıl içi soğutuc akıllı cihazı proje  ödevi b191210027  emine erol 1.öğretim Agrubu
+ Nesne yönelimli analiz  ve tasarım dersi akıllı(soğutucu)cihazı proje ödevi B191210027 Emine EROL 1.Öğretim
